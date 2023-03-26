@@ -14,9 +14,6 @@
   "author": {
     "name": "Moody Salem"
   },
-  "files": [
-    "build"
-  ],
   "scripts": {
     "precompile": "rimraf ./build/",
     "compile": "npx hardhat compile",
